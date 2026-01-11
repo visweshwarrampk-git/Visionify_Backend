@@ -1,0 +1,29 @@
+fastapi
+uvicorn
+pydantic
+anyio
+websockets
+requests
+python-multipart
+
+opencv-python
+numpy
+Pillow
+
+ultralytics   # YOLOv8 / YOLO11
+
+PySide6       # GUI
+
+# Database dependencies (NEW)
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.9
+python-dotenv>=1.0.0
+
+# ✅ ADD ONLY BCRYPT (NO JWT)
+bcrypt==4.1.2
+
+scipy>=1.9.0
+
+# Optional (improves performance)
+protobuf
+psutil

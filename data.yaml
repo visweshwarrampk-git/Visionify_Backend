@@ -1,0 +1,18 @@
+# Construction-PPE dataset (local)
+train: ./data/images/train
+val: ./data/images/val
+test: ./data/images/test
+
+# Classes
+names:
+  0: helmet
+  1: gloves
+  2: vest
+  3: boots
+  4: goggles
+  5: none
+  6: person
+  7: no_helmet
+  8: no_goggle
+  9: no_gloves
+  10: no_boots

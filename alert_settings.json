@@ -1,0 +1,20 @@
+{
+  "critical": {
+    "email": true,
+    "sms": false,
+    "push": false,
+    "sound": false
+  },
+  "warning": {
+    "email": true,
+    "sms": false,
+    "push": false,
+    "sound": false
+  },
+  "info": {
+    "email": true,
+    "sms": false,
+    "push": false,
+    "sound": false
+  }
+}
